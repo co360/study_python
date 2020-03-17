@@ -1,0 +1,11 @@
+*.pyc
+__pycache__/*
+*.log
+*.swp
+*.swo
+*/static/
+*/*/logs/*
+*_log
+
+django/study*/static/
+website/
